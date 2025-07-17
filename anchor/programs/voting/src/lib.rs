@@ -7,5 +7,7 @@ declare_id!("FqzkXZdwYjurnUKetJCAvaUw5WAqbwzU6gZEwydeEfqS");
 #[program]
 pub mod voting {
     use super::*;
+
     
+
 }
